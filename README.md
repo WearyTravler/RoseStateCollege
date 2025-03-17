@@ -1,2 +1,2 @@
-# RoseStateCollege
-All code from various classes I took
+# CryptographyMidTermsNotesandScripts
+Notes and Scripts for CIT 2563 Midterms, this includes my study plan, python scripts and my notes...
